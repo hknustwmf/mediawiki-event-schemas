@@ -1,6 +1,7 @@
 title: mediawiki/revision/score
 description: >
   Represents a MW Revision Score event (from ORES).
+$id: https://raw.githubusercontent.com/hknustwmf/mediawiki-event-schemas/master/jsonschema/mediawiki/revision/score/1.yaml
 $schema: http://json-schema.org/draft-04/schema#
 type: object
 properties:
